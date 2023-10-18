@@ -1,3 +1,3 @@
 # second-prac
-Practising git 
-author rahul
+Practising git  ---------- 
+Author rahul
